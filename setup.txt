@@ -1,0 +1,9 @@
+1. Create new Project
+2. Install dependencies
+3. Install passport
+4. Migrate tables
+5. Add HasApiTokens trait to user model
+6. Add "passport" as driver in auth.php under api
+7. Add passport routes to authserviceprovider "passport::routes()"
+8. Create your controller and routes with "auth:api" middleware
+********** All the best ***************
